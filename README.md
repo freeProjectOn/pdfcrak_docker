@@ -7,7 +7,7 @@
 and start decrypt process by following</b></BR>
 <code>$docker run -v $(pwd)/pdf_files:/pdf -it my_pdfcrack</code></BR>
 inside container run</BR>
-<code>$start</BR>
+<code>$start</code></BR>
 <HR></HR>
 <b>When you stop a run container again you can use</b></BR>
 <code>$docker run -v $(pwd)/pdf_files:/pdf -it my_pdfcrack</code></BR>
